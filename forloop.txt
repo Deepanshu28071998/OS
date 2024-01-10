@@ -1,0 +1,4 @@
+for i in Red Blue Green
+do 
+echo the color is $i
+done
